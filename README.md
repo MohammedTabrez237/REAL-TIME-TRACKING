@@ -8,7 +8,6 @@ A **real-time tracking application** built with **JavaScript**, **CSS**, and **E
 - 🖥️ **Responsive Design**: Works flawlessly across devices using modern CSS.
 - 💡 **Dynamic Templating**: Built with **EJS** to handle dynamic data efficiently.
 - 📡 **WebSocket Integration**: Ensures real-time updates without page refreshes.
-- 🎨 **Clean UI/UX**: Intuitive and user-friendly interface designed with CSS magic.
 
 ## How It Works ⚙️
 
